@@ -1,1 +1,1 @@
-facial-web-client
+Auto Attendance Based on Facial Recognition
